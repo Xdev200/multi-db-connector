@@ -1,0 +1,26 @@
+{
+  "name": "@xdev200/number-system-converter",
+  "version": "2.0.0",
+  "description": "A number system conversion library. Supports binary, octal, decimal and hexadecimal.",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "db connection",
+    "database connection",
+    "db connector",
+    "mysql connection",
+    "mongodb connection",
+    "postgres connection",
+    "multidb connection"
+  ],
+  "dependencies": {
+    "mongodb": "^5.7.0",
+    "mysql": "^2.18.1",
+    "pg": "^8.11.2"
+  },
+  "author": "XDEV200200@gmail.com",
+  "license": "MIT",
+  "repository": "https://github.com/Madhusudan707/ns_npm"
+}
