@@ -5,12 +5,12 @@ A production-ready npm package for connecting to multiple databases with full cu
 ## Installation
 
 ```bash
-npm install customizable-db-connector
+npm install multi-db-connector
 ```
 ## Usage
 
 ```js
-const MultiDBConnector = require('customizable-db-connector');
+const MultiDBConnector = require('multi-db-connector');
 
 const dbConfig = {
   mongodb: {
